@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+  h1 {
+    color: #911;
+  }
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="index.html">Page 1</></a></li>
+  <li><a href="index2.html">Page 2</a></li>
+  <li><a href="index3.html">Page 3</a></li>
+  </ul>
+
+  <h1>Green House Gasses</h1>
+
+
+ <p>
+  We live in a Green House .
+Life on Earth depends on energy coming from the sun. About half the light reaching Earth's atmosphere passes through the air and clouds to the surface, where it is absorbed and then radiated upward in the form of infrared heat. About 90 percent of this heat is then absorbed by the greenhouse gases and radiated back toward the surface, which is warmed to a life-supporting average of 59 degrees Fahrenheit .
+   
+ 
+</html>
