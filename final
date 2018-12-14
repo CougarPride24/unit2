@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<head>
 
-<html><style>
+<html>
+  <head>
+<style>
 ul {
     list-style-type: none;
     margin: 0;
@@ -30,12 +31,16 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="index.html" ="#home">Page 1</></a></li>
-  <li><a href="#index2.html">Page 2</a></li>
-  <li><a href="#index3.html">Page 3</a></li>
+  <li><a href="index.html">Page 1</></a></li>
+  <li><a href="index2.html">Page 2</a></li>
+  <li><a href="index3.html">Page 3</a></li>
   </ul>
 
-  <hl>Global Warming<hl>
+  <h1>Global Warming</h1>
 
+
+ <p>
+  Glaciers are melting  sea levels are rising , cloud forests are dying , and wildlife is scrambling  keep pace. It's becoming clear that humans have caused most of the past century's warming by releasing heat-trapping gases as we power our modern lives. Called greenhouse gases, their levels are higher now than in the last 650,000 years.
+We call the result global warming, but it is causing a set of changes to the Earth's climate, or long term weather patterns, that varies from place to place. As the Earth spins each day, the new heat swirls with it, picking up moisture over the oceans, rising here, settling there. It's changing the rhythms of climate that all living things have come to rely upon.
 </body>
 </html>
